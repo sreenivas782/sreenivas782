@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sreenivas782
 - 👀 I’m interested in ...fullstack Web development
-- 🌱 I’m currently learning ...Python,MySQL,Django,Css,Html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 My Skills : C , Html , Css , JavaScript , React Js , Mysql.
+- 📫 How to reach me ...sreenivasathi333@gmail.com
 
 <!---
 sreenivas782/sreenivas782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
