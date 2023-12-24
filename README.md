@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sreenivas782
-- 👀 I’m interested in ...fullstack Web development
+- 👀 I’m Frontend Developer
 - 🌱 My Skills : C , Html , Css , JavaScript , React Js , Mysql.
 - 📫 How to reach me ...sreenivasathi333@gmail.com
 
